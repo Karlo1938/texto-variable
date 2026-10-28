@@ -1,0 +1,3 @@
+{
+  "texto": "fetch(\"https://campusvirtual.urv.cat/user/edit.php\", {\r\n  \"headers\": [[CABECERAS_PRIVADAS]],\r\n  \"body\": [[CUERPO_PRIVADO]],\r\n  \"method\": \"POST\"\r\n});"
+}

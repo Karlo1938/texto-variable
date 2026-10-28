@@ -1,0 +1,10 @@
+{
+  "name": "@karloxd1938/texto-variable",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Un texto disponible como variable al importar el paquete",
+  "main": "./index.cjs",
+  "exports": "./index.cjs",
+  "files": ["index.cjs", "texto.json"],
+  "engines": { "node": ">=18" }
+}

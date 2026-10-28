@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.cache-npm-local/
+.npmrc-publicacion
+_dist/
+_dist-cuenta/
+borrador_anonimizado.txt
+node_modules/
+npm-debug.log*
+.DS_Store
